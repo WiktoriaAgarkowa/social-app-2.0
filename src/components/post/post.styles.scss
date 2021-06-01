@@ -19,6 +19,8 @@
         }
         .username {
             text-transform: capitalize;
+            padding: 5px 0;
+            font-family: Inconsolata;
         }
     }
 
@@ -26,6 +28,7 @@
         list-style: none;
         padding: 20px 0;
         margin-left: 10%;
+        text-align: left;
         font-family: Inconsolata;
     }
 }
